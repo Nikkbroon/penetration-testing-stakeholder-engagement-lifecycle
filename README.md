@@ -1,6 +1,12 @@
 # Penetration Testing Stakeholder Engagement Life Cycle
 
-[Penetration Testing Stakeholder Engagement Life Cycle.pdf](https://github.com/user-attachments/files/32113620/Penetration.Testing.Stakeholder.Engagement.Life.Cycle.pdf)
+<img width="690" height="666" alt="Screenshot 2026-09-11 at 15 49 17" src="https://github.com/user-attachments/assets/96102b28-66b4-410d-8834-f82a152fe1bd" />
+
+<img width="674" height="310" alt="Screenshot 2026-09-11 at 15 49 35" src="https://github.com/user-attachments/assets/1200f703-166b-4f9e-a323-37a224cb0a63" />
+
+<img width="675" height="287" alt="Screenshot 2026-09-11 at 15 49 40" src="https://github.com/user-attachments/assets/795e9071-2957-4f15-ba3c-e792cb86330f" />
+
+
 
 
 ## Overview
